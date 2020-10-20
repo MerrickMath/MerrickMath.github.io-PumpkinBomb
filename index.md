@@ -1,4 +1,3 @@
-## Welcome to the PUMPKIN BOMB Challenge
 In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on imposiono day. 
 
 You may notice that each pumpkin has a unique shape and size. 
