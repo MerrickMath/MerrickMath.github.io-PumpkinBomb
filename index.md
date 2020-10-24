@@ -2,6 +2,14 @@
 
 In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. Here are pictures of each of the four pumpkins:
 
+### Pumpkin 1
+
+### Pumpkin 2
+
+### Pumpkin 3
+
+### Pumpkin 4
+
 You may notice that each pumpkin has a unique shape and size. Can you tell how big they are? 
 
 We have created <a href="https://drive.google.com/file/d/1YJOabLfp-1xUdJ0rJRpUtZUwLfkyxJCw/view?usp=sharing"> this video </a> to help you understand what this will look like, and to aid in your estimation. Can you figure out the diameter of the pumpkin in the video? 
