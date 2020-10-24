@@ -22,6 +22,8 @@ In this challenge you are trying to estimate the number of elastic bands it take
   </div>
 </div>
 
+---
+
 ### Pumpkin B
 <div class="row">
   <div class="column">
@@ -36,6 +38,8 @@ In this challenge you are trying to estimate the number of elastic bands it take
     </p>
   </div>
 </div>
+
+---
 
 ### Pumpkin C
 <div class="row">
@@ -52,6 +56,8 @@ In this challenge you are trying to estimate the number of elastic bands it take
   </div>
 </div>
 
+---
+
 ### Pumpkin D
 <div class="row">
   <div class="column">
@@ -66,6 +72,8 @@ In this challenge you are trying to estimate the number of elastic bands it take
     </p>
   </div>
 </div>
+
+---
 
 You may notice that each pumpkin has a unique shape and size. Can you tell how big they are? 
 
