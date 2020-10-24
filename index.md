@@ -2,6 +2,24 @@
 
 In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. Here are pictures of each of the four pumpkins:
 
+
+<div class="row">
+  <div class="column">
+    <h2> Pumpkin A Top </h2>
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_top.jpg"> </p>
+    </p>
+  </div>
+  
+  <div class="column">
+    <h2> Pumpkin A Front </h2>
+    <p>
+      <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg"> </p>
+    </p>
+  </div>
+  
+</div>
+
 ### Pumpkin 1
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_top.jpg"> </p>
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg"> </p>
