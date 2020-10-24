@@ -2,22 +2,15 @@
 
 In this challenge you are trying to estimate the number of elastic bands it takes to **IMPLODE** four different pumpkins. We will be using size 64 (3.5 inch by 0.25 inch) elastic bands on implosion day. Here are pictures of each of the four pumpkins:
 
-
-<img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg">
-
-
-
 ### Pumpkin A
 <div class="row">
   <div class="column">
-    <h3> Front </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg"> </p>
     </p>
   </div>
   
   <div class="column">
-    <h3> Top </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_top.jpg"> </p>
     </p>
@@ -29,14 +22,12 @@ In this challenge you are trying to estimate the number of elastic bands it take
 ### Pumpkin B
 <div class="row">
   <div class="column">
-    <h3> Front </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinA_front.jpg"> </p>
     </p>
   </div>
   
   <div class="column">
-    <h3> Top </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinB_top.jpg"> </p>
     </p>
@@ -48,7 +39,6 @@ In this challenge you are trying to estimate the number of elastic bands it take
 ### Pumpkin C
 <div class="row">
   <div class="column">
-    <h3> Front </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinC_front.jpg"> </p>
     </p>
@@ -56,7 +46,6 @@ In this challenge you are trying to estimate the number of elastic bands it take
   
   <div class="column">
     <p>
-      <h3> Top </h3>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinC_top.jpg"> </p>
     </p>
   </div>
@@ -67,14 +56,12 @@ In this challenge you are trying to estimate the number of elastic bands it take
 ### Pumpkin D
 <div class="row">
   <div class="column">
-    <h3> Front </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinD_front.jpg"> </p>
     </p>
   </div>
   
   <div class="column">
-    <h3> Top </h3>
     <p>
       <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PumpkinBomb/PumpkinD_top.jpg"> </p>
     </p>
