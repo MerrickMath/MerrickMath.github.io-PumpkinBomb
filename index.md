@@ -81,3 +81,6 @@ There will be prizes awared for the:
 * Best estimation strategy 
 
 GOOD LUCK and **MATH ON!** 
+
+### RESULTS 
+Check out <a href="https://drive.google.com/file/d/14eTkhJX0YxVpIDKtIBcO2I2xVMjszutn/view?usp=sharing"> this video</a>.
